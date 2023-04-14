@@ -11,8 +11,8 @@
     "build": "rimraf ./dist && tsc",
     "format": "prettier --write \"src/**/*.ts\""
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["node", "typescript", "starter"],
+  "author": "Ignacio Cortés García",
   "license": "ISC",
   "dependencies": {
     "lint-staged": "^13.2.1",
