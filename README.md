@@ -24,7 +24,7 @@ To use this starter kit for your own project, follow these steps:
 
 1. Clone the repository: Clone this repository to your local machine using git clone or by downloading the ZIP file from the repository's GitHub page.
 
-2. Install dependencies: Navigate to the cloned repository's directory and run npm install or yarn to install all the required dependencies.
+2. Install dependencies: Navigate to the cloned repository's directory and run `npm install` to install all the required dependencies. Then run `npx husky install` to install husky hooks.
 
 3. Configure: Modify the configuration files, such as tsconfig.json, .eslintrc.json, .prettierrc.json, and jest.config.js, to suit your project's requirements.
 
