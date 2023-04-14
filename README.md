@@ -16,7 +16,7 @@ Welcome to the Node.js and TypeScript Starter Kit! This repository serves as a t
 
 - Jest: Jest is a powerful testing framework for JavaScript and TypeScript applications that provides a comprehensive set of testing utilities and assertions for writing robust tests.
 
-- Configuration: This starter kit includes a basic configuration setup for Node.js, TypeScript, ESLint, Prettier, and Jest, allowing you to quickly start developing your application without spending time on setting up the environment from scratch.
+- Configuration: This starter kit includes a basic configuration setup for Node.js, TypeScript, ESLint, Prettier, Husky and Jest, allowing you to quickly start developing your application without spending time on setting up the environment from scratch.
 
 ## Getting Started
 
